@@ -1,7 +1,7 @@
 # Level Changelogs
 [Add Level to Revolt](https://app.revolt.chat/bot/01JD5XY5Q11YEDZH68P3JFQK8H)
 ---
-## Level 0.0.3 R (11/24/2024 | Published at Unknown Time)
+## 0.0.3 R (11/24/2024 | Published at Unknown Time)
 - Fix Cooldown
 - Fix Custom Algorithms (They should work)
 - Fix other issues
