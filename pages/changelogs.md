@@ -1,5 +1,8 @@
 # Level Changelogs
 [Add Level to Revolt](https://app.revolt.chat/bot/01JD5XY5Q11YEDZH68P3JFQK8H)
+--
+## 0.0.4 R (11/26/2024 | Published at 3:26AM)
+- Fix XP Reset Issue
 ---
 ## 0.0.3 R (11/24/2024 | Published at Unknown Time)
 - Fix Cooldown
